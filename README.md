@@ -1,7 +1,6 @@
 # Metric-Internship-Task-N2
 
 ### Introduction
-Introduction
 I have made a Generative AI assistant for CEOs or startup founders. The goal is to assist them in creating a database of Venture Capital firms. AI assistant scrapes VC websites, extracts relevant information, and compares the similarities of different VCs.
 
 I have used gpt-3.5-turbo which given scraped info website answers given questions and can return a JSON object. I have tried to save that in the Pinecone vector database, but due to time circumstances, I left it unfinished (you can see codes there). As a result, it returns the name of the company.
