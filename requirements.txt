@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+httpx
+beautifulsoup4
+openai==0.28
+spacy
+python-dotenv
+pinecone-client
+pydantic
